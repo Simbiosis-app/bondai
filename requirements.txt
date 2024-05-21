@@ -70,7 +70,7 @@ python-engineio==4.7.1
 python-socketio==5.9.0
 pytz==2023.3
 regex==2023.8.8
-requests==2.31.0
+requests==2.32.0
 requests-html==0.10.0
 rfc3986==1.5.0
 rsa==4.9
