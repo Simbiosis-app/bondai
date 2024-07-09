@@ -92,4 +92,4 @@ websocket-client==1.6.3
 websockets==11.0.3
 wsproto==1.2.0
 yarl==1.9.2
-zipp==3.16.2
+zipp==3.19.1
